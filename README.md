@@ -1,1 +1,1 @@
-# michine-learning-2021
+# machine-learning-2021
